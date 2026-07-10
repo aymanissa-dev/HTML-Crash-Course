@@ -24,8 +24,8 @@ All you need to view or edit this project is a modern web browser and a text edi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/aymanissa-dev/html-crash-course.git](https://github.com/aymanissa-dev/html-crash-course.git)
-   cd html-crash-course
+   git clone (https://github.com/aymanissa-dev/Html-Crash-Course.git)
+   cd Html-Crash-Course
    ```
 2. Launch the file:
    - Double-click index.html to open it directly in your browser, or
@@ -35,10 +35,9 @@ All you need to view or edit this project is a modern web browser and a text edi
 ## Project Structure
 
 ```
-html-crash-course/
+Html-Crash-Course/
 ├── index.html        # Core HTML boilerplate and reference file
 ├── about.html        # A Small About Us Page to learn anchoring
-├── index.html        # HTML logo Image
 └── README.md         # Documentation
 ```
 
